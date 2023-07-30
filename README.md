@@ -3,7 +3,9 @@
 <p align="left"> I'm Viththal, welcome to my Github Profile! </p> 
 
 <h2>😎 About me</h2>
-Motivated software engineer, passionate about exploring the technology industry. As a recent graduate from New York University with a Master's degree in Computer Engineering, I am eager to contribute my expertise in a dynamic and collaborative work environment, where I can continuously learn and leverage technology to create innovative solutions.
+Motivated software engineer, passionate about exploring the technology industry. 
+
+As a recent graduate from New York University with a Master's degree in Computer Engineering, I am eager to contribute my expertise in a dynamic and collaborative work environment, where I can continuously learn and leverage technology to create innovative solutions.
 
 I bring a wealth of skills acquired through academic projects and professional internships at tech firms like Intel and Nokia. Skilled in Software development and DevOps practices.
 
@@ -45,8 +47,11 @@ Automation | Testing | Scripting | Agile | CI/CD | Micro-services | Data process
 Visual Studio Code | Git | Jira | Postman | Jenkins | Docker | AWS | Kubernetes | MySQL | REST API | Tableau | MongoDB
 
 <br>
-📬 Get In Touch with me!
+
+📬 Get In Touch!
 
 <a href="mailto:viththalkhandelwal20@gmail.com"><img src="asset/gmail.png" alt="Gmail" width="30"></a>
+
 <a href="https://www.linkedin.com/in/viththal-k/" target="\_blank"><img src="asset/in.png" alt="LinkedIn" width="30"></a>
+
 <a href="https://github.com/Viththal-K" target="\_blank"><img src="asset/git.png" alt="GitHub" width="30"></a>
