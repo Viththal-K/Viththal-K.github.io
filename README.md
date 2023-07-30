@@ -10,7 +10,7 @@ I bring a wealth of skills acquired through academic projects and professional i
 <h2>👨‍💻 Software Development Projects:</h2>
 <b>Python</b>
 
-  - [Aggregate Portfolio Constructor](https://github.com/Viththal-K/Aggregate\\_Portfolio\\_Construction)
+  - [Aggregate Portfolio Constructor](https://github.com/Viththal-K/Aggregate_Portfolio_Construction)
 
   - [Patient Information System](https://github.com/Viththal-K/Patient-Information-Database-System)
 
