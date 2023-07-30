@@ -47,8 +47,6 @@ Visual Studio Code | Git | Jira | Postman | Jenkins | Docker | AWS | Kubernetes 
 <br>
 📬 Get In Touch with me!
 
-📧 [Gmail](mailto:viththalkhandelwal20@gmail.com)
-
+<a href="mailto:viththalkhandelwal20@gmail.com"><img src="asset/gmail.png" alt="Gmail" width="30"></a>
 <a href="https://www.linkedin.com/in/viththal-k/" target="\_blank"><img src="asset/in.png" alt="LinkedIn" width="30"></a>
-
 <a href="https://github.com/Viththal-K" target="\_blank"><img src="asset/git.png" alt="GitHub" width="30"></a>
